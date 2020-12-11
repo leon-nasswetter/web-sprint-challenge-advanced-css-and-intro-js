@@ -134,3 +134,9 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+/* Mobile Styling */
+
+@media(max-width: 500px){
+    
+}
