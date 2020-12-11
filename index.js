@@ -311,8 +311,10 @@ function lotsOfArt(array){
       lotsPainted.push(array[i].name);
     }
   }
-  return  lotsPainted;
+  return lotsPainted;
 }
+
+console.log(lotsPainted);
 
 
 
